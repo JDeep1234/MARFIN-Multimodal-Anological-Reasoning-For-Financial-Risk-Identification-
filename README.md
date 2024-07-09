@@ -49,11 +49,7 @@ The following Python packages are required to run the code:
 ## Methodology
 ![image](https://github.com/JDeep1234/MARFIN-Multimodal-Anological-Reasoning-For-Financial-Risk-Identification-/assets/132117873/0ddce4a6-1187-4424-808d-e875ccf48961)
 
-## Dataset
-The data were collected from the Taiwan Economic Journal for the
-years 1999 to 2009. Company bankruptcy was defined based on the
-business regulations of the Taiwan Stock Exchange.
-![image](https://github.com/JDeep1234/MARFIN-Multimodal-Anological-Reasoning-For-Financial-Risk-Identification-/assets/132117873/8380ad26-32e7-4d9e-a036-9e0061409900)
+
 
 Install the required packages using pip:
 
