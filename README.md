@@ -46,6 +46,8 @@ The following Python packages are required to run the code:
 - imbalanced-learn
 - pickle
 - networkx
+## Methodology
+![image](https://github.com/JDeep1234/MARFIN-Multimodal-Anological-Reasoning-For-Financial-Risk-Identification-/assets/132117873/0ddce4a6-1187-4424-808d-e875ccf48961)
 
 Install the required packages using pip:
 
