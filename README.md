@@ -25,17 +25,6 @@ You can extend and modify this knowledge graph to represent more complex relatio
 
 ### 3. Multimodal Embedding Generation
 The `MultimodalEmbeddingGenerator` class generates embeddings for nodes in the knowledge graph based on multiple modalities (text, image, and numerical attributes). While the example uses a basic linear layer, real-world scenarios would likely use sophisticated models such as multimodal transformers or graph convolutional networks (GCNs) to capture complex relationships within and between modalities.
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Requirements](#requirements)
-- [Data](#data)
-- [Model Training](#model-training)
-- [Evaluation](#evaluation)
-- [Feature Importance](#feature-importance)
-- [Knowledge Graph](#knowledge-graph)
-- [Probability Distribution](#probability-distribution)
-- [Usage](#usage)
 
 The goal of this project is to develop a predictive model for bankruptcy using a dataset with various financial ratios and features. The project includes:
 - Data exploration
