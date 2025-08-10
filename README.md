@@ -31,39 +31,40 @@ The MARFIN project revolutionizes institutional financial risk assessment by emp
 ```python
 class FinancialKnowledgeGraph:
     """
-    Constructs enterprise-grade knowledge graphs for financial risk modeling
+    Constructs knowledge graphs for financial entity relationships
     
-    Entities: Companies, Financial Instruments, Economic Indicators, Market Sectors
-    Relationships: Ownership, Correlation, Causality, Regulatory Dependencies
+    Core Implementation:
+    - NetworkX-based graph construction
+    - Entity relationship mapping
+    - Financial ratio integration
     """
 ```
 
-**Core Components:**
-- **Nodes**: Companies, financial instruments, economic indicators, market trends, regulatory events
-- **Edges**: Ownership structures, correlation patterns, causal relationships, regulatory impacts
-- **Attributes**: Financial ratios, market metrics, regulatory scores, temporal data
+**Implementation Components:**
+- **Entities**: "StockMarket," "MarketCrash," "CreditDefault" 
+- **Relationships**: "Affects" and "LeadsTo" connections
+- **Data Integration**: Financial ratios from Economic Journal dataset
+- **Visualization**: NetworkX graph plotting and analysis
 
-### Multimodal Risk Assessment
+### Risk Assessment Pipeline
 ```python
-class MultimodalRiskAnalyzer:
-    """
-    Generates risk embeddings from multiple data modalities:
-    - Textual: Financial reports, earnings calls, regulatory filings
-    - Numerical: Financial ratios, market data, economic indicators  
-    - Temporal: Time-series patterns, seasonal trends
-    - Regulatory: Compliance metrics, audit results
-    """
+# Core modeling approach:
+# 1. Data preprocessing and feature engineering
+# 2. Random Forest classification with hyperparameter tuning
+# 3. Feature importance analysis
+# 4. Knowledge graph construction for relationship modeling
+# 5. Probability distribution visualization
 ```
 
-### Predictive Modeling Pipeline
-The system implements a comprehensive risk assessment pipeline:
+### Predictive Modeling Implementation
+The system implements a comprehensive risk assessment approach:
 
-1. **Data Integration**: Multi-source financial data aggregation and normalization
-2. **Feature Engineering**: Automated ratio calculation and trend analysis
-3. **Model Training**: Random Forest with Bayesian hyperparameter optimization
-4. **Risk Scoring**: Real-time bankruptcy probability and confidence intervals
-5. **Explainability**: SHAP values and feature importance for regulatory compliance
-6. **Monitoring**: Continuous model performance tracking and drift detection
+1. **Data Preprocessing**: Financial ratio normalization and feature engineering
+2. **Model Training**: Random Forest with GridSearchCV hyperparameter optimization
+3. **Risk Assessment**: Bankruptcy probability prediction with confidence scoring
+4. **Explainability**: Feature importance ranking and SHAP-style analysis
+5. **Visualization**: Probability distributions and model performance metrics
+6. **Knowledge Graphs**: NetworkX-based relationship modeling between financial entities
 
 ## Business Applications
 
@@ -160,16 +161,5 @@ python marfin_risk_assessment.py
 python generate_risk_reports.py
 ```
 
-
-
-## Future Enhancements
-
-- **Real-time Data Integration**: Streaming financial data processing
-- **Alternative Data Sources**: Satellite imagery, social sentiment, news analytics
-- **Reinforcement Learning**: Adaptive risk thresholds based on market conditions
-- **Federated Learning**: Multi-institutional model training while preserving privacy
-- **Quantum-Enhanced Optimization**: Advanced portfolio optimization techniques
-
----
 
 *MARFIN represents a significant advancement in institutional financial risk management, combining cutting-edge AI research with practical business applications for the modern financial services industry.*
