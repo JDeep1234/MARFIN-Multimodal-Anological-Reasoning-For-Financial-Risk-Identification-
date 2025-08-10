@@ -144,23 +144,6 @@ mlflow>=2.1.0          # For model lifecycle management
 - **Sector Analysis**: Model stability across industry verticals
 - **Regulatory Backtesting**: Historical stress scenario validation
 
-## Installation & Setup
-
-### **Quick Start**
-```bash
-# Clone repository
-git clone https://github.com/JDeep1234/MARFIN-Multimodal-Anological-Reasoning-For-Financial-Risk-Identification-.git
-cd MARFIN-Multimodal-Anological-Reasoning-For-Financial-Risk-Identification-
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run bankruptcy prediction model
-python marfin_risk_assessment.py
-
-# Generate risk reports
-python generate_risk_reports.py
-```
 
 
 *MARFIN represents a significant advancement in institutional financial risk management, combining cutting-edge AI research with practical business applications for the modern financial services industry.*
