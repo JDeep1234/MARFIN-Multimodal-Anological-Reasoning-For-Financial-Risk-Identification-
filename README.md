@@ -3,7 +3,7 @@
 ## Overview
 The MARFIN project revolutionizes institutional financial risk assessment by employing Multimodal Analogical Reasoning over knowledge graphs. This enterprise-grade platform integrates diverse financial data sources—including market trends, asset performance, economic indicators, and regulatory filings—to uncover hidden relationships and patterns critical for risk management. By leveraging advanced AI techniques, MARFIN enables financial institutions to proactively identify bankruptcy risk, optimize credit portfolios, and enhance regulatory compliance through data-driven insights.
 
-![Methodology](https://github.com/JDeep1234/MARFIN-Multimodal-Anological-Reasoning-For-Financial-Risk-Identification-/assets/132117873/0ddce4a6-1187-4424-808d-e875ccf48961)
+![image](https://github.com/JDeep1234/MARFIN-Multimodal-Anological-Reasoning-For-Financial-Risk-Identification-/assets/132117873/0ddce4a6-1187-4424-808d-e875ccf48961)
 
 ## Key Capabilities
 
