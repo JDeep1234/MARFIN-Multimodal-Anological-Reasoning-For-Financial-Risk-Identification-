@@ -7,7 +7,7 @@ The MARFIN project revolutionizes institutional financial risk assessment by emp
 
 ## Key Capabilities
 
-### 🏦 **Institutional Risk Management**
+### 🏦 **Institutional Risk Management** 
 - **Bankruptcy Prediction**: Achieves 95%+ accuracy using ensemble methods and multimodal data fusion
 - **Credit Risk Assessment**: Real-time evaluation of counterparty risk across loan portfolios
 - **Portfolio Optimization**: Advanced analytics for asset allocation and risk-adjusted returns
